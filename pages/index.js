@@ -11,10 +11,10 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Alpha Keysystem. Press The Link 
+        <Header title="Alpha Keysystem. Paste The Link In Your Browser To Get The Key.
     Below To Get The Key" />
         <p className="description">
-         [Keysystem Link](https://rekonise.com/alpha-keysystem-first-checkpoint-5hwnr).
+         rekonise.com/alpha-keysystem-first-checkpoint-5hwnr).
         </p>
       </main>
 
